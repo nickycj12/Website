@@ -9,3 +9,4 @@ from a new 3rd branch
 
 ### updated from master
 new for tortoise SVN
+Remote Branch mag
